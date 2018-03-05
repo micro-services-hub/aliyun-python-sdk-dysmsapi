@@ -11,5 +11,9 @@ Documentation:
 
 Please visit http://develop.aliyun.com/sdk/python
 
-## Install
+## INSTALL
 pip install git+https://github.com/micro-services-hub/aliyun-python-sdk-dysmsapi.git
+
+
+## DOC
+https://help.aliyun.com/document_detail/55491.html
