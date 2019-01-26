@@ -7,6 +7,10 @@ Python SDK for Aliyun sms services. officially supports Python 2.7 & 3.3-3.7
 pip install git+https://github.com/micro-services-hub/aliyun-python-sdk-dysmsapi.git
 ```
 
+## Requirement.txt setup
+```text
+-e git+https://github.com/micro-services-hub/aliyun-python-sdk-dysmsapi@master#egg=AliyunDysmsapi
+```
 
 ## DOC
   + https://help.aliyun.com/document_detail/55491.html
